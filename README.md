@@ -79,14 +79,8 @@ ____
   <a href="https://www.linkedin.com/in/malika-wijerathna-45bb013ab/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="50" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/JaninduAkash221" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="50" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/janindu__akash?igsh=MXJvMTA5ZzM0aGg2eA==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="50" alt="instagram logo"  />
-  </a>
-</div>
-  </a>
+  
+
 
 <!-- FOOTER -->
 <div align="center" width="400">
